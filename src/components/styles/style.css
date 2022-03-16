@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+header{
+    background: #bbd44c;
+    text-align: center;
+}
+
+.logo {
+    color:rgb(27, 145, 43);
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-style: 40px;
+}
+
+
+header input{
+    font-size: 20px;
+    margin: 20px 0;
+}
